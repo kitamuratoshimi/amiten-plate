@@ -17,8 +17,8 @@ include($inc . "header.php");
 
   <section>
     <base-wrapper tag="section">
-      <h2>h2.heading section</h2>
-      <p>つれづれなるまゝに、日暮らし、硯にむかひて、心にうつりゆくよしなし事を、そこはかとなく書きつくれば、あやしうこそものぐるほしけれ。（Wikipediaより）つれづれなるまゝに、日暮らし（１００文字）</p>
+      <h2>Polymnie</h2>
+      <p>映像系</p>
     </base-wrapper>
     <base-wrapper tag="article">
       <h2>h2.heading article</h2>
